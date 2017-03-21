@@ -1,0 +1,127 @@
+.pull-left {
+    float: left;
+    height: 100px;
+}
+
+.pull-right {
+    float: right;
+}
+
+.inline {
+    display: inline;
+    color: #fff;
+    float: right;
+}
+
+.active {
+    border-radius: 10px;
+    background-color: #fff;
+    padding: 10px;
+    
+}
+
+
+    color: white;
+    
+}
+header {
+    height: 250px;
+    background-color: #F8BBD0;
+    padding: 0px 16px;
+}
+
+
+h1, h2 {
+    color: #fff;
+}
+    
+#hero {
+    background-image: url("../img/Bike.jpg");
+    height: 450px;
+    width: 1400;
+    background-size: contain;
+    
+    
+}
+
+.title-style {
+    margin: 0;
+    text-align: center;
+    margin-top: 16%;
+    margin left: 30%;
+    position: absolute;
+    
+}
+
+.white-text {
+    color: #fff;
+}
+.centered {
+    text-align: center;
+}
+
+aside {
+    width: 30%;
+    background-color: black;
+    height: 350px;
+    border: 2px solid #e6677;
+}
+
+#blog-links {
+    padding-left: 0%;
+}
+.blog-link:hover a, .blog-link:hover {
+    background-color: #eeee77;
+    color:black;
+
+}
+aside a {
+    color: #fff;
+}
+
+.blog-link {
+    margin:5px 0px;
+    padding: 10px 0px;
+}
+
+#main-heading {
+    font-weight: 800;
+    color: #000;
+}
+p {
+    text-align: right;
+}
+main {
+    float: right;
+    width: 69.5%;
+}
+header nav ul li {
+    margin-right: 15px;
+    
+    
+}
+
+footer {
+    height: 95px;
+    background-color:#6678ff;
+    clear:both;
+}
+#social-media {
+    
+}
+
+
+}
+
+iframe {
+    min-height: 650px;
+    width: 100%;
+}
+
+
+
+
+
+
+
+

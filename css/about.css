@@ -1,0 +1,25 @@
+h1{
+ color: #155aa8;
+}
+
+button.me{
+    background-color:#ccff66;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 15px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 800;
+}
+
+main{
+    width:100%;
+}
+
+.column{
+    float:left;
+    width: 33.3%;
+    text-align: justify;
+    padding: 0px 10px;
+    box-sizing: border-box;
+}
